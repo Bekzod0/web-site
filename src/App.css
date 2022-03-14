@@ -1,0 +1,119 @@
+.inp{
+width: 90%;
+height: 50px;
+background:rgba(0, 0, 0, 0.534) ;
+border: none;
+border-radius: 15px;
+color: aliceblue;
+text-align: center;
+}
+.btn{
+width: 10%;
+border: none;
+border-radius: 15px;
+color: aliceblue;
+background:rgba(0, 0, 0, 0.534) ;
+}
+.input{
+display: flex;
+}
+.card{
+margin-top: 50px;
+width: 300px;
+height: 330px;
+background:rgba(0, 0, 0, 0.534) ;
+border-radius: 10px;
+}
+.Maininfo{
+    text-align: center;
+}
+.Information{
+    margin-top: 80px;
+}
+.cardlist{
+    display: flex;
+    justify-content: space-around;
+}
+.beko{
+    width: 500px;
+    height: 380px;
+    margin-left: 700px;
+    margin-top: 200px;
+    background:rgba(0, 0, 0, 0.534) ;
+    text-align: center;
+    border-radius: 15px;
+    border: none;
+}
+.box1{
+    
+    margin-top: 20px;
+    margin-right: 25px;
+    
+}
+.box1 input{
+    border-radius: 15px;
+    border: none;
+    background:rgba(0, 0, 0, 0.534) ;
+    
+}
+.box2{
+    margin-top: 20px;
+}
+.box{
+    
+    margin-left: 5px;
+    padding-top: 20px;
+}
+.box input{
+    border-radius: 15px;
+    border: none;
+    background:rgba(0, 0, 0, 0.534) ;
+    color: aliceblue;
+}
+.box2 textarea{
+    border-radius: 10px;
+    border: none;
+    background:rgba(0, 0, 0, 0.534) ;
+    color: aliceblue;
+}
+.box3{
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 270px;
+    background:rgba(blue, white, black, green) ;
+    color: aliceblue;
+} 
+.box label{
+    margin-right: 10px;
+    color: aliceblue;
+}
+.box1 label{
+    margin-right: 10px;
+    color: aliceblue;
+}
+.box2 label{
+    margin-right: 10px;
+    color: aliceblue;
+}
+body{
+    background-image: url(./Componet/Img/ddae2.jpg);
+    width: 100%;
+    background-size: cover;
+}
+.beko h1{
+    color: aliceblue;
+}
+.menu{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+.menu a{
+    text-decoration: none;
+    margin-top: 20px;
+    color: aliceblue;
+    border:solid yellow 3px ;
+}
